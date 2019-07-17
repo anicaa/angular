@@ -30,12 +30,12 @@
   },
   "users": [
     {
-      id: 1,
-      name: danica
+      "id": 1,
+      "name": "danica"
     },
     {
-      id: 2,
-      name: samson
+      "id": 2,
+      "name": "samson"
     }
   ]
 }
