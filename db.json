@@ -4,12 +4,14 @@
     "id": 1,
     "firstname": "Leanne",
     "lastname": "Graham",
+    "avatar": "https://www.clipartmax.com/png/middle/293-2931307_account-avatar-male-man-person-profile-icon-profile-icons.png",
     "isEditing": false
   },
     {
     "id": 2,
     "firstname": "Ervin",
     "lastname": "Howell",
+    "avatar": "https://www.clipartmax.com/png/middle/319-3191274_male-avatar-admin-profile.png",
     "isEditing": false
   }
   ],
